@@ -11,7 +11,7 @@ export default function Gallery() {
             <div>
               <h1 className="font-bold mt-3">Interdum aenean</h1>
               <p className=" mt-3">Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-              <button className="btn mt-5 text-[red] font-bold ; ">More</button>
+              <button className="btn border-4 border-red-500 mt-5 text-[red] font-bold ; ">More</button>
             </div>
           </a>
         </div>
@@ -22,7 +22,7 @@ export default function Gallery() {
             <div>
               <h1 className="font-bold mt-3">Nulla amet dolore</h1>
               <p className=" mt-3">Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-              <button className="btn mt-5 text-[red] font-bold ; ">More</button>
+              <button className="btn border-4 border-red-500 mt-5 text-[red] font-bold ; ">More</button>
             </div>
           </a>
         </div>
@@ -33,7 +33,7 @@ export default function Gallery() {
             <div>
               <h1 className="font-bold mt-3">Tempus ullamcorper</h1>
               <p className=" mt-3">Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-              <button className="btn mt-5 text-[red] font-bold ; ">More</button>
+              <button className="btn border-4 border-red-500 mt-5 text-[red] font-bold ; ">More</button>
             </div>
           </a>
         </div>
@@ -44,7 +44,7 @@ export default function Gallery() {
             <div>
               <h1 className="font-bold mt-3">Sed etiam facilis</h1>
               <p className=" mt-3">Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-              <button className="btn mt-5 text-[red] font-bold ; ">More</button>
+              <button className="btn border-4 border-red-500 mt-5 text-[red] font-bold ; ">More</button>
             </div>
           </a>
         </div>
@@ -55,7 +55,7 @@ export default function Gallery() {
             <div>
               <h1 className="font-bold mt-3">Feugiat lorem aenean</h1>
               <p className=" mt-3">Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-              <button className="btn mt-5 text-[red] font-bold ; ">More</button>
+              <button className="btn border-4 border-red-500 mt-5 text-[red] font-bold ; ">More</button>
             </div>
           </a>
         </div>
@@ -66,7 +66,7 @@ export default function Gallery() {
             <div>
               <h1 className="font-bold mt-3">Amet varius aliquam</h1>
               <p className=" mt-3">Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-              <button className="btn mt-5 text-[red] font-bold ; ">More</button>
+              <button className="btn border-4 border-red-500 mt-5 text-[red] font-bold ; ">More</button>
             </div>
           </a>
         </div>
