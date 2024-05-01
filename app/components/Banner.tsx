@@ -1,6 +1,6 @@
 export default function Banner() {
     return (
-        <div className="mt-4 border-t-4 border-[red] grid-cols-2 md:grid">
+        <div className="mt-4 border-t-4 border-[#F56A6A] grid-cols-2 md:grid">
             <div className="md:mr-2"> 
                 <h1 className=" text-[20px] font-bold mt-10 md:text-[40px]">Hi, I'm Teacher by UTFPR</h1>
                 <h3 className=" mt-3 text-[#7F888F] invisible md:visible">A free and fully responsive site template</h3>
