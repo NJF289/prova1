@@ -16,7 +16,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="text-center max-w-[1440px] ">{children}</body>
+      <body className="ml-10 text-center max-w-[1440px] ">{children}</body>
     </html>
   );
 }
