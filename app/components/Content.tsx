@@ -1,6 +1,6 @@
 export default function Content() {
     return (
-        <div className=" mt-4 border-t-4 border-[gray]">
+        <div className=" mt-10 border-t-4 border-[#D2D7D9]">
             <p className="font-bold text-left mt-8">Erat lacinia</p>
             <p className="font-bold text-left text-[red]">______________</p>
             <div className=" grid-cols-2 md:grid">
