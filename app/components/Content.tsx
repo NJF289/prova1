@@ -9,7 +9,7 @@ export default function Content() {
                 <div className="max-w-24 place-self-end mr-7"> <img src="/img/spannn.png" alt="" /></div>
                 <div>
                 <h1 className="font-bold">Portitor ullamcorper</h1>
-                <p className="text-[#7F888F]">Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam</p>
+                <p className="mt-2 text-[#7F888F]">Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam</p>
                     </div>
                     </div> 
                
@@ -17,7 +17,7 @@ export default function Content() {
                 <div className="max-w-24 place-self-end md:mr-7"> <img src="/img/span1.png" alt="" /></div>
                 <div>
                 <h1 className="font-bold">Sapien veroeros</h1>
-                <p className="text-[#7F888F]">Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+                <p className="mt-2 text-[#7F888F]">Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
                     </div>
                     </div> 
                 
@@ -25,7 +25,7 @@ export default function Content() {
                 <div className="max-w-24 place-self-end md:mr-7"> <img src="/img/span2.png" alt="" /></div>
                 <div>
                 <h1 className="font-bold">Quam lorem ipsum</h1>
-                <p className="text-[#7F888F]">Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+                <p className="mt-2 text-[#7F888F]">Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
                     </div>
                     </div> 
 
@@ -33,7 +33,7 @@ export default function Content() {
                 <div className="max-w-24 md:place-self-end md:mr-7"> <img src="/img/span3.png" alt="" /></div>
                 <div>
                 <h1 className="font-bold">Sed magna finibus</h1>
-                <p className="text-[#7F888F]">Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+                <p className=" mt-2 text-[#7F888F]">Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
                     </div> 
                     </div>
         </div>
