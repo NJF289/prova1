@@ -29,7 +29,7 @@ export default function Content() {
                     </div>
                     </div> 
 
-                <div className="text-justify mt-8 mr-4 grid-cols-5 md:grid lg:grid-cols-3">
+                <div className="text-justify mt-8  grid-cols-5 md:grid lg:grid-cols-3">
                 <div className="col-span-2 max-w-28 md:place-self-end md:mr-7 lg:col-span-1"> <img src="/img/span3.png" alt="" /></div>
                 <div className="col-span-3 lg:col-span-2">
                 <h1 className="font-bold">Sed magna finibus</h1>
